@@ -1,2 +1,2 @@
 # JSCalculator
- a calculator made using js and css
+ A simple calculator made using vanilla js and css
